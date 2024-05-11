@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/vinnush147/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139234/bbf64911-926c-4a48-be1a-52967a3d7910)
 
-![Screenshot 2024-04-29 224315](https://github.com/Nandakesore0210/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149365088/675c55f0-ae14-4e54-bd52-23a8b3d8b6fb)
+
 
 ### Output:
+![image](https://github.com/vinnush147/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147139234/275e62c9-c506-48f9-b095-81dba4a628b3)
 
-![Screenshot (151)](https://github.com/Nandakesore0210/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/149365088/41404153-c470-4928-8f1e-58fd5ad61953)
 
 ### Name: Vinnush kuamr L S
 ### Register Number: 2122232302244
